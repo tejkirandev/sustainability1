@@ -1,0 +1,57 @@
+#title{
+     color: #004481;
+      margin-left: 99px;
+}
+
+.contact-details{
+ width: 223px;
+ height: 41px;
+
+}
+[title="Username"] {
+    color: red !important;
+  }
+
+  .sup-form-container {
+    padding: 20px;
+  }
+  
+  .form-section {
+    border: 1px solid #A1BAD1;
+    border-radius: 15px;
+    width: 100%;
+    max-width: 1115px;
+    background-color: #F8FAFC;
+    margin-bottom: 20px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .contact-detail-card, .supplier-id-card {
+    border: 1px solid #CECECE;
+    border-radius: 15px;
+    background-color: #F8FAFC;
+    padding: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .contact-detail-fields, .supplier-id-fields {
+    flex: 1;
+  }
+  
+  .remove-button-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  .add-button-container {
+    text-align: right;
+    margin-top: 20px;
+  }
+  
